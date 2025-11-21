@@ -77,13 +77,13 @@ Decision Tree + Logistic Regression; achieved **86% recall** using post-pruned t
 
 ## 📘 Education
 
-**PG Program in Data Science** — UT Austin & Great Lakes (2025–2026)
-**B.Tech Biotechnology** — GCT Coimbatore (2009–2013)
+* **PG Program in Data Science** — UT Austin & Great Lakes (2025–2026)
+* **B.Tech Biotechnology** — GCT Coimbatore (2009–2013)
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: [karthi209@gmail.com](mailto:karthi209@gmail.com)
-🔗 LinkedIn: [https://linkedin.com/in/karthik-raju](https://linkedin.com/in/karthik-raju)
-📁 Portfolio: *coming soon*
+* 📧 Email: [karthi209@gmail.com](mailto:karthi209@gmail.com)
+* 🔗 LinkedIn: [https://linkedin.com/in/karthik-raju](https://linkedin.com/in/karthik-raju)
+* 📁 Portfolio: *coming soon*
