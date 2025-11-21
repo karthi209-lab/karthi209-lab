@@ -1,5 +1,5 @@
 # Hi, I'm Karthik 👋
-------------------------------
+
 **Senior QA Engineer → Data Science Professional**
 Blending 10+ years of QA engineering experience at Amazon with strong Machine Learning, Analytics, and Automation skills. Passionate about building data-driven products, intelligent QA systems, and practical ML solutions.
 
