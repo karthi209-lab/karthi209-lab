@@ -17,11 +17,11 @@ Blending 10+ years of QA engineering experience at Amazon with strong Machine Le
 
 ## 🧰 My Tech Stack & Tools
 
-**Languages:** Python, SQL
-**QA & Automation:** Selenium, Pytest, Jira, TestRail, Risk-Based Testing, CI/CD
-**ML & Data Science:** Pandas, NumPy, Scikit-learn, XGBoost, CatBoost, Feature Engineering, Ensemble Models
-**Visualization:** Tableau, Matplotlib, Seaborn
-**Other Skills:** EDA, Model Optimization, Anomaly Detection, RCA, Agile/Scrum
+* **Languages:** Python, SQL
+* **QA & Automation:** Selenium, Pytest, Jira, TestRail, Risk-Based Testing, CI/CD
+* **ML & Data Science:** Pandas, NumPy, Scikit-learn, XGBoost, CatBoost, Feature Engineering, Ensemble Models
+* **Visualization:** Tableau, Matplotlib, Seaborn
+* **Other Skills:** EDA, Model Optimization, Anomaly Detection, RCA, Agile/Scrum
 
 ---
 
