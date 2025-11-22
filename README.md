@@ -85,5 +85,5 @@ Decision Tree + Logistic Regression; achieved **86% recall** using post-pruned t
 ## 🌐 Connect With Me
 
 * 📧 Email: [karthi209@gmail.com](mailto:karthi209@gmail.com)
-* 🔗 LinkedIn: [https://linkedin.com/in/karthik-raju](https://linkedin.com/in/karthik-raju)
+* 🔗 LinkedIn: [Karthik Raju](https://www.linkedin.com/in/karthik-raju-6504aa46/)
 * 📁 Portfolio: *coming soon*
