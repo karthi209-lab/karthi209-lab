@@ -54,7 +54,7 @@ Tech: Python, Pandas, XGBoost, SMOTE
 
 ### 🚗 **2. Car Insurance Claims Analysis — BI & Storytelling**
 
-Created a Tableau dashboard analyzing 10,000+ claims; identified high-risk segments and key drivers.
+Created a Tableau dashboard analyzing 7,500+ claims; identified high-risk segments and key drivers.
 Tech: Tableau, Statistical Analysis
 
 ### 🛒 **3. New Wheels Sales — SQL Analytics**
